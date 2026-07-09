@@ -17,7 +17,7 @@ app.use(express.json());
 
 connect();
 
-app.get("/", (req, res) => {
+app.get("/", (_req, res) => {
   res.json({
     success: true,
     message: "Roadside Assistance API Running",
