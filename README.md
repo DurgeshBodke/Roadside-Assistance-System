@@ -65,15 +65,27 @@ npm run dev
 
 ## Screenshots
 
-(Login)
+### Login Page
 
-(Driver)
-
-(Mechanic)
-
-(Admin)
+<img src="screenshots/login.jpeg" width="900"/>
 
 ---
+
+### Driver Dashboard
+
+<img src="screenshots/driver.jpeg" width="900"/>
+
+---
+
+### Mechanic Dashboard
+
+<img src="screenshots/mechanic.jpeg" width="900"/>
+
+---
+
+### Admin Dashboard
+
+<img src="screenshots/admin.jpeg" width="900"/>
 
 ## Author
 
