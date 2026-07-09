@@ -4,8 +4,7 @@ import type {
   ServiceType,
 } from "./shared/types";
 
-const API = "http://localhost:5000/api";
-
+const API = import.meta.env.VITE_API_URL || "http://localhost:5000/api";
 const TOKEN_KEY = "roadside.token";
 const USER_KEY = "roadside.user";
 
